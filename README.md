@@ -15,6 +15,6 @@ This dashboard visualizes business insights from the `Dataco.csv` dataset using 
 ---
 
 **File Included**: `ECO sales.twbx`  
-**Tool Used**: Tableau Desktop  
+**Tool Used**: Tableau Public  
 **Submitted by**: Aakansh Singhal  
 **Internship**: ELite Tech (Task 3 – Data Visualization)
